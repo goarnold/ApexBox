@@ -4,11 +4,6 @@
     <label>boxauth</label>
     <packageVersions>
         <majorNumber>1</majorNumber>
-        <minorNumber>9</minorNumber>
-        <namespace>APXTConga4</namespace>
-    </packageVersions>
-    <packageVersions>
-        <majorNumber>1</majorNumber>
         <minorNumber>81</minorNumber>
         <namespace>ITBgroup</namespace>
     </packageVersions>
